@@ -1,0 +1,9 @@
+/tmp
+/ent/*
+!/ent/schema
+!/ent/generate.go
+.vscode
+.DS_Store
+main
+main.exe
+first.lock
