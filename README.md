@@ -1,7 +1,7 @@
 # gin-go-start
 
 ## ent generate
-- go generate ./ent
+- go generate ./app/ent
 
 ## run
 - go run main.go
@@ -12,6 +12,7 @@
 
 ## 目录结构
 - controller 控制器
+- ent 数据库实体 entgo.io
 - middleware 路由中间件，通常用来实现认证功能
 - repository 数据访问层 Dao
 - router Gin路由器

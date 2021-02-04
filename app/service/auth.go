@@ -1,7 +1,7 @@
 package service
 
 import (
-	"go-gin-start/ent"
+	"go-gin-start/app/ent"
 
 	"github.com/gin-gonic/gin"
 )

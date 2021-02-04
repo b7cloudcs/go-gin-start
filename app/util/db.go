@@ -2,7 +2,7 @@ package util
 
 import (
 	"fmt"
-	"go-gin-start/ent"
+	"go-gin-start/app/ent"
 	"log"
 
 	_ "github.com/lib/pq"
