@@ -1,4 +1,4 @@
-module jinrongdati
+module go-gin-start
 
 go 1.13
 

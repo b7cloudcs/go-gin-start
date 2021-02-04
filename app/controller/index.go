@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"jinrongdati/app/util"
+	"go-gin-start/app/util"
 	"time"
 
 	"github.com/gin-gonic/gin"

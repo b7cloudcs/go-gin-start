@@ -1,3 +1,3 @@
-package provider
+package repository
 
 type User struct{}

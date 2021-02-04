@@ -1,4 +1,4 @@
-package res
+package vo
 
 // json2go
 // https://www.sojson.com/json/json2go.html

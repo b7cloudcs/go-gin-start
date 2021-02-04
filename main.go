@@ -1,8 +1,8 @@
 package main
 
 import (
-	"jinrongdati/app/router"
-	"jinrongdati/app/util"
+	"go-gin-start/app/router"
+	"go-gin-start/app/util"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"

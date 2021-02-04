@@ -1,8 +1,8 @@
 package router
 
 import (
-	"jinrongdati/app/controller"
-	"jinrongdati/app/middleware"
+	"go-gin-start/app/controller"
+	"go-gin-start/app/middleware"
 
 	"github.com/gin-gonic/gin"
 )

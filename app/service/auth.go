@@ -1,7 +1,7 @@
 package service
 
 import (
-	"jinrongdati/ent"
+	"go-gin-start/ent"
 
 	"github.com/gin-gonic/gin"
 )
