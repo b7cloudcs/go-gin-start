@@ -2,6 +2,7 @@
 /ent/*
 !/ent/schema
 !/ent/generate.go
+.idea
 .vscode
 .DS_Store
 main
