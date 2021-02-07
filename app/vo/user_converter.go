@@ -1,9 +1,9 @@
 package vo
 
-import "go-gin-start/ent"
+import "go-gin-start/app/ent"
 
 /**
- * Value Object Translator
+ * Value Object Converter
  * 关于 VO 类型数据的相关转换器，通常实现 PO2VO、VO2VO、ANY2MAP
  */
 
